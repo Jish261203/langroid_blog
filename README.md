@@ -14,14 +14,13 @@ Generate SEO-optimized, research-backed blog posts using AI agents through a cle
 <img src="https://img.shields.io/badge/-Langroid-000000?style=for-the-badge&logoColor=white" alt="Langroid" />
 
 </div>
-
 <div align="center">
 
-<img src="assets/image1" alt="AI Blog Generator Workflow" style="width: 600px; height: auto;" />
-<br />
-<img src="assets/image2" alt="Demo GIF" style="width: 400px; height: auto;" />
-<br />
-<img src="assets/langroid_blog_image" alt="AI Concept" style="width: 500px; height: auto;" />
+  <img src="assets/image1.png" alt="AI Blog Generator Workflow" width="80%" />
+  <br><br>
+  <img src="assets/image2.png" alt="Demo GIF" width="80%" />
+  <br><br>
+  <img src="assets/langroid_blog_image.png" alt="AI Concept" width="80%" />
 
 </div>
 
