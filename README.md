@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📝 AI Blog Generator
+# 📝 Agentic Blog Writer
 
 Generate SEO-optimized, research-backed blog posts using AI agents through a clean Streamlit UI.
 
@@ -16,7 +16,7 @@ Generate SEO-optimized, research-backed blog posts using AI agents through a cle
 </div>
 <div align="center">
 
-  <img src="assets/image1.png" alt="AI Blog Generator Workflow" width="80%" />
+  <img src="assets/img1.png" alt="AI Blog Generator Workflow" width="80%" />
   <br><br>
   <img src="assets/image2.png" alt="Demo GIF" width="80%" />
   <br><br>
