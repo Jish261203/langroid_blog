@@ -5,7 +5,7 @@ import json
 
 st.set_page_config(page_title="AI Blog Generator", layout="wide")
 
-st.title("📝 AI Blog Generator")
+st.title("📝 Agentic Blog Writer")
 st.markdown("Enter a topic, and let AI generate a blog post.")
 
 question = st.text_input("Enter your blog topic/question")
