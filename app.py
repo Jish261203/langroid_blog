@@ -1,4 +1,10 @@
+import os
 import streamlit as st
+
+# ✅ Set OpenAI API key from Streamlit secrets (important for Langroid)
+os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
+
+# ✅ Now import Langroid-related modules
 from agents.coordinator_agent import CoordinatorAgent
 from run_example import extract_keyword
 import json
